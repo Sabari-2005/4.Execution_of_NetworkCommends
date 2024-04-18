@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+Name: R.Sabarinath
+Register No:212223100048
 ## AIM 
 Use of Network commands in Real Time environment
 ## SOFTWARE
